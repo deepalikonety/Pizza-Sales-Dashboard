@@ -28,7 +28,7 @@ Data transformations using Power Query
 
 🚀 Getting Started
 
-Clone the repository: git clone https://github.com/yourusername/PowerBI-Project.git
+Clone the repository: git clone (https://github.com/deepalikonety/Pizza-Sales-Dashboard.git)
 Open the .pbix file:
 Download and install Power BI Desktop
 Open the .pbix file in Power BI Desktop

@@ -6,12 +6,11 @@ This Power BI project visualizes and analyzes key data insights to support decis
 
 🎯 What You Will Learn
 
-After watching this tutorial for 1 hour, you will be able to:
+What we did in project:
 Analyze any dataset efficiently.
-Create your own schema (Data Modeling).
+Created my own schema (Data Modeling).
 Develop basic-level DAX calculations.
-Understand the approach from a Power BI Developer's perspective.
-Prepare for Power BI interview basic questions.
+
 
 📂 File Structure
 
@@ -35,9 +34,9 @@ Open the .pbix file in Power BI Desktop
 View and interact with the report: Use the filter pane to customize views
 Hover over visual elements for detailed tooltips
 
-📚 Tutorial Overview
+📚 Overview
 
-In this tutorial, we will implement a complete Microsoft Power BI project from end to end. This includes:
+In conclusion,we implemented a complete Microsoft Power BI project from end to end. This includes:
 Requirement Gathering: Understanding business needs.
 Data Importing: Extracting data from CSV files.
 Data Cleaning & Transformation: Preparing data using Power Query.
@@ -45,7 +44,6 @@ DAX & Calculated Columns: Applying calculations to meet business requirements.
 UI Enhancement: Making reports more readable and user-friendly.
 Publishing the Report: Deploying reports for end-user consumption.
 
-This tutorial provides complete end-to-end knowledge of Power BI projects, making it easier for beginners to grasp essential concepts.
 
 🧠 Learning Resources
 
@@ -64,4 +62,3 @@ K Deepali — https://www.linkedin.com/in/deepali-konety-b64717275/
 
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-Let me know if you want me to add anything else or tweak the content! ✌️
